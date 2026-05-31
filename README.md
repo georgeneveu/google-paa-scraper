@@ -23,5 +23,5 @@ Automated Google People Also Ask (PAA) scraper built with Python, Playwright, an
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/seo-question-miner.git
-cd seo-question-miner
+git clone https://github.com/georgeneveu/google-paa-scraper.git
+cd google-paa-scraper
